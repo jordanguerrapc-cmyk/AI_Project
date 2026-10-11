@@ -1,4 +1,4 @@
-# AI_Project# Proyecto de IA - Sistema de Recomendación
+ Proyecto de IA - Sistema de Recomendación
 
 ## Objetivo
 Crear un sistema de recomendación simple en Python que sugiera productos relacionados según sus categorías.
